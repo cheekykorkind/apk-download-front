@@ -34,4 +34,5 @@ yarn-error.log*
 .vercel
 
 # apk files
-/public/apk
+/public/apk/*
+!/public/apk/.keep
